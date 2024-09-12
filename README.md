@@ -1,4 +1,4 @@
-# Interpretable_GUI
+# Interpretable GUI
 
 In this project, we make plotting clustermaps easy for those who don't have prior Python experience by implementing a variety of features: a CLI tool that allows you to drag and drop files on the terminal and a GUI that allows for more specification as well as plotting the wanted clustermap. An NPY and CSV file is required for this map to be made. The guidelines (shown currently below) and the examples of these files will also appear in a new window after clicking the "Help" button in the Clustermap_GUI. 
 
@@ -22,3 +22,5 @@ How to Run:
     a. OPTIONAL: Drag and drop the necessary files with spaces between each file (py .csv .npy or .py .npy .csv)
   
 5. Run the .py file, find the other files by clicking "Browse" in the GUI (if you didn't do 4a), and generate the clustermap
+
+Credit: Anish Dhawan (Aneja Lab)
